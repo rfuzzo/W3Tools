@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.438
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W3Tools", "W3Tools\W3Tools.csproj", "{BEB7E1FD-C4AB-4CB4-A72F-D6544FA859BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W3Tools.UI", "W3Tools.UI\W3Tools.UI.csproj", "{9D5E3AC1-E27E-40F5-844C-D81AE7D1DB0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W3Tools.App", "W3Tools.App\W3Tools.App.csproj", "{340DA199-3838-40B5-A820-B465A22269E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W3Tools.UI.Controls", "W3Tools.UI.Controls\W3Tools.UI.Controls.csproj", "{6965408E-86E3-440C-A3D9-E412CC49C551}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W3Tools.WccLite", "W3Tools.WccLite\W3Tools.WccLite.csproj", "{42868266-05E5-4000-A594-9B435AAA5535}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W3Tools.Radish", "W3Tools.Radish\W3Tools.Radish.csproj", "{E93F8023-8D00-4791-A557-92351CF46B97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEB7E1FD-C4AB-4CB4-A72F-D6544FA859BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEB7E1FD-C4AB-4CB4-A72F-D6544FA859BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEB7E1FD-C4AB-4CB4-A72F-D6544FA859BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEB7E1FD-C4AB-4CB4-A72F-D6544FA859BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D5E3AC1-E27E-40F5-844C-D81AE7D1DB0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D5E3AC1-E27E-40F5-844C-D81AE7D1DB0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D5E3AC1-E27E-40F5-844C-D81AE7D1DB0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D5E3AC1-E27E-40F5-844C-D81AE7D1DB0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{340DA199-3838-40B5-A820-B465A22269E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{340DA199-3838-40B5-A820-B465A22269E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{340DA199-3838-40B5-A820-B465A22269E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{340DA199-3838-40B5-A820-B465A22269E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6965408E-86E3-440C-A3D9-E412CC49C551}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6965408E-86E3-440C-A3D9-E412CC49C551}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6965408E-86E3-440C-A3D9-E412CC49C551}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6965408E-86E3-440C-A3D9-E412CC49C551}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42868266-05E5-4000-A594-9B435AAA5535}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42868266-05E5-4000-A594-9B435AAA5535}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42868266-05E5-4000-A594-9B435AAA5535}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42868266-05E5-4000-A594-9B435AAA5535}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E93F8023-8D00-4791-A557-92351CF46B97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E93F8023-8D00-4791-A557-92351CF46B97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E93F8023-8D00-4791-A557-92351CF46B97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E93F8023-8D00-4791-A557-92351CF46B97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21411EC0-64A4-4827-B9EA-C3106AE10851}
+	EndGlobalSection
+EndGlobal
